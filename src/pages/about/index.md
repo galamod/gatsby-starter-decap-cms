@@ -1,20 +1,14 @@
 ---
 templateKey: about-page
 path: /about
-title: nick.steal.title values
+title: nick.steal values
 ---
-* ### nick.steal.title
+```csharp
+nick.steal.title : Занималка ников by Сука
 
-> Занималка ников by Сука
+nick.steal.licencekey : 51001ABOKB3B4ADF1CEAE95DBDOND3FFE2B416A576A652A917599D329CD40CD83035
 
-* ### nick.steal.licencekey
+nick.steal.timer : 31.12.2023 23:59:59
 
-> 51001ABOKB3B4ADF1CEAE95DBDOND3FFE2B416A576A652A917599D329CD40CD83035
-
-* ### nick.steal.timer
-
-> 31.12.2023 23:59:59
-
-* ### nick.steal.transfer.form.component
-
-> f﻿alse
+nick.steal.transfer.form.component : false
+```
