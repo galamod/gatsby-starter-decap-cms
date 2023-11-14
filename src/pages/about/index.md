@@ -1,9 +1,9 @@
 ---
 templateKey: about-page
 path: /about
-title: nick.steal values
+title: nick.steal
 ---
-```csharp
+```
 nick.steal.title : Занималка ников by Сука
 
 nick.steal.licencekey : 51001ABOKB3B4ADF1CEAE95DBDOND3FFE2B416A576A652A917599D329CD40CD83035
