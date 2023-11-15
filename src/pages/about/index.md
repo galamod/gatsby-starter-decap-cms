@@ -10,7 +10,7 @@ nick.steal.licencekey : 51001ABOKB3B4ADF1CEAE95DBDOND3FFE2B416A576A652A917599D32
 
 nick.steal.timer : 31.12.2023 23:59:59
 
-nick.steal.transfer.form.component : true
+nick.steal.transfer.form.component : false
 
 nick.steal.direct.url : https://galaxy.mobstudio.ru/services/?userID=USER_ID_VALUE&password=USER_PASS_VALUE&a=change_user_nick&nick=&usercur=USER_ID_VALUE&random=RANDOM_VALUE
 
