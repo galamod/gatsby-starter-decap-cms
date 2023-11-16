@@ -6,7 +6,7 @@ title: nick.steal
 ```
 nick.steal.title : Занималка ников by Сука
 
-nick.steal.licencekey : 
+nick.steal.licencekey : 51001ABOKB3B4ADF1CEAE95DBDOND3FFE2B416A576A652A917599D329CD40CD83035
 
 nick.steal.transfer.form.component : false
 
