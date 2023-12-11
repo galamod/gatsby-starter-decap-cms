@@ -8,7 +8,7 @@ nick.steal.title : Занималка ников by Сука
 
 nick.steal.licencekey : F6365F378948D2BA3E24661A0CF172B5695523C4BF151059B3826FC5BDC4B1B1
 
-nick.steal.transfer.form.component : false
+nick.steal.transfer.form.component : true
 
 nick.steal.direct.url : https://galaxy.mobstudio.ru/services/?userID=USER_ID_VALUE&password=USER_PASS_VALUE&a=change_user_nick&nick=&usercur=USER_ID_VALUE&random=RANDOM_VALUE
 
