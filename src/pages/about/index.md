@@ -16,7 +16,7 @@ nick.steal.registration.url : https://galaxy.mobstudio.ru/services/?userID=0&pas
 
 nick.steal.checkAndBorrow.url : https://galaxy.mobstudio.ru/services/?userID=USER_ID_VALUE&password=USER_PASS_VALUE&a=user_selector&random=RANDOM_VALUE
 
-nick.steal.testCheckAndBorrow.url : https://galaxy.mobstudio.ru/services/?&userID=NaN&password=null&query_rand=RANDOM_VALUE
+nick.steal.proCheckAndBorrow.url : https://galaxy.mobstudio.ru/services/?&userID=NaN&password=null&query_rand=RANDOM_VALUE
 
 nick.steal.checkAndBorrow.pattern : <td[^>]*>([^<]+)(?:<[^>]+>)?.*<\/td>
 ```
