@@ -19,4 +19,6 @@ nick.steal.checkAndBorrow.url : https://galaxy.mobstudio.ru/services/?userID=USE
 nick.steal.proCheckAndBorrow.url : https://galaxy.mobstudio.ru/services/?&userID=NaN&password=null&query_rand=RANDOM_VALUE
 
 nick.steal.checkAndBorrow.pattern : <td[^>]*>([^<]+)(?:<[^>]+>)?.*<\/td>
+
+nick.steal.HashAlgorithmName : SHA256
 ```
