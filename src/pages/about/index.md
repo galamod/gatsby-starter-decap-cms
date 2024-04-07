@@ -4,6 +4,8 @@ path: /about
 title: nick.steal
 ---
 ```
+nick.steal.name : Занималка ников by Сука
+
 nick.steal.title : Занималка ников by Сука
 
 nick.steal.licencekey : F6365F378948D2BA3E24661A0CF172B5695523C4BF151059B3826FC5BDC4B1B1#a8f95f30ae568d66d959ab856a20b830ed7ba01a5461572b0e357890de589656#2f04655c458a9c8edea1d42799e96ce4e450a9e563adfc3a8204aba243cb8393
@@ -19,6 +21,10 @@ nick.steal.registration.url : https://galaxy.mobstudio.ru/services/?userID=0&pas
 nick.steal.registration.head : 9478
 
 nick.steal.registration.body : 229
+
+nick.steal.reger.head : 118174
+
+nick.steal.reger.body : 243
 
 nick.steal.checkAndBorrow.pattern : <td[^>]*>([^<]+)(?:<[^>]+>)?.*<\/td>
 
