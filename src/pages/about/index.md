@@ -28,5 +28,5 @@ nick.steal.reger.head : 118174
 
 nick.steal.reger.body : 243
 
-nick.steal.delay : 2
+nick.steal.delay : 0
 ```
